@@ -1,1 +1,26 @@
 # Patatap Clone
+## Getting Started
+  Project that aims to clone [Patatap](http://www.patatap.com/). The goal is to utilize javascript libraries and sound files, to create an interactive webpage. 
+### Prerequisites
+  Coming soon...
+### Installing
+  Coming soon...
+## Running Tests
+  Coming soon...
+## Deployment
+  Coming soon...
+## Built With:
+  - HTML/CSS
+  - Javascript
+  - [howler.js](https://howlerjs.com/)
+  - [paper.js](http://paperjs.org/)
+## Contributing
+  Coming soon...
+## Versioning
+  Coming soon...
+## Authors
+  Coming Soon...
+## License
+  Coming Soon...
+## Acknowledgments 
+  Project code heavily based on Colt Steele's instruction course on Udemy.
